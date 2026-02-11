@@ -7,10 +7,10 @@ int main(){
     cin>>num;
     for(int i=0;i<num;i++){
         cout<<endl;
-        for(int j=num-i;j>0;j--){
+        for(int j=0;j<i;j++){
             cout<<" ";
         }
-        for(int k=2*i-1;k>0;k--){
+        for(int k=0;k<2*(num-i)-1;k++){
             cout<<"*";
         }
     }
