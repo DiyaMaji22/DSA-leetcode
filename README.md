@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [3637-trionic-array-i](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/3637-trionic-array-i) |
 ## Two Pointers
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0680-valid-palindrome-ii) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Binary Search
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Queue
 |  |
 | ------- |
