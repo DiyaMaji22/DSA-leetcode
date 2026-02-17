@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0415-add-strings) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Recursion
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0074-search-a-2d-matrix) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Dynamic Programming
 |  |
 | ------- |
