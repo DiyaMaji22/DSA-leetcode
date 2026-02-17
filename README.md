@@ -27,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0328-odd-even-linked-list) |
+## Math
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0415-add-strings) |
+## String
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0415-add-strings) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
