@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Binary Search
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Sorting
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0415-add-strings) |
+| [0680-valid-palindrome-ii](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Simulation
 |  |
 | ------- |
