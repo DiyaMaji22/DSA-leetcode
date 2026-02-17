@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0704-binary-search) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
+| [3637-trionic-array-i](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/3637-trionic-array-i) |
 ## Two Pointers
 |  |
 | ------- |
