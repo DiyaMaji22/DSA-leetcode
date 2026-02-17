@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0680-valid-palindrome-ii) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Sorting
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0509-fibonacci-number) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 ## String
 |  |
 | ------- |
