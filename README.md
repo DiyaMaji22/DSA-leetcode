@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
