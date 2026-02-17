@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0035-search-insert-position) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Two Pointers
 |  |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0035-search-insert-position) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Greedy
 |  |
