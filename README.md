@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0328-odd-even-linked-list) |
 ## Math
 |  |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0415-add-strings) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
