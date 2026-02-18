@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
