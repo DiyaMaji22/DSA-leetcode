@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Dynamic Programming
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0387-first-unique-character-in-a-string) |
