@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
@@ -205,10 +207,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
