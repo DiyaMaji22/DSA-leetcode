@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Queue
@@ -222,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
