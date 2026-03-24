@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1903-largest-odd-number-in-string](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Sorting
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2965-find-missing-and-repeated-values](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## String
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1903-largest-odd-number-in-string](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
 |  |
 | ------- |
