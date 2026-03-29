@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Linked List
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
@@ -288,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Binary Indexed Tree
 |  |
 | ------- |
