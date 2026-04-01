@@ -10,18 +10,18 @@
  */
 class Solution {
 public:
-typedef ListNode*ln;
+typedef ListNode*Node;
     ListNode* reverseList(ListNode* head) {
-        ln pre=nullptr;
-        ln curr=head;
-        while(curr!=nullptr){
-            ln nxt=curr->next;
-            curr->next=pre;
-            pre=curr;
-            curr=nxt;
-        }
-        return pre;
+        Node prev=NULL;
+        Node curr=head;
+        while(curr!=NULL){
+            Node temp=curr->next;
+            curr->next=prev;
+            prev=curr;
+            curr=temp;
 
-        
+        }
+
+       return prev; 
     }
 };
