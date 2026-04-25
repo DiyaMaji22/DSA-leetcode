@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0509-fibonacci-number) |
 ## Matrix
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0231-power-of-two) |
 ## Tree
 |  |
 | ------- |
