@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0014-longest-common-prefix) |
@@ -63,8 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3637-trionic-array-i](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/3637-trionic-array-i) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0018-4sum) |
@@ -90,8 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -115,16 +115,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0056-merge-intervals) |
@@ -138,8 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0021-merge-two-sorted-lists) |
@@ -155,8 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0069-sqrtx) |
@@ -170,8 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2965-find-missing-and-repeated-values](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0013-roman-to-integer) |
@@ -192,14 +192,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0415-add-strings](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0415-add-strings) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0025-reverse-nodes-in-k-group) |
@@ -208,16 +208,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0509-fibonacci-number) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2643-row-with-maximum-ones](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0118-pascals-triangle) |
@@ -227,12 +227,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0509-fibonacci-number](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0509-fibonacci-number) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -254,12 +254,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2965-find-missing-and-repeated-values](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -267,28 +267,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0204-count-primes](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0204-count-primes) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0204-count-primes](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0204-count-primes) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0136-single-number](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0231-power-of-two) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -297,8 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -307,19 +307,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0404-sum-of-left-leaves](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0169-majority-element) |
@@ -327,67 +327,67 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Binary Indexed Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0493-reverse-pairs) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0493-reverse-pairs) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0493-reverse-pairs) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0493-reverse-pairs) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0014-longest-common-prefix) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0796-rotate-string](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0796-rotate-string) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0197-rising-temperature](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0577-employee-bonus) |
@@ -405,7 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-recyclable-and-low-fat-products](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/1934-confirmation-rate) |
 ## Interactive
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0278-first-bad-version](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
