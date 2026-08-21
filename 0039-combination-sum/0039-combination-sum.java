@@ -1,14 +1,14 @@
 class Solution {
     public void solve (int[] candidates,List<List<Integer>>ans,List<Integer>output,int sum,int index,int target){
-        if(index >= candidates.length){
+        if(index >= candidates.length || sum > target){
             if(target==sum){
                 ans.add(new ArrayList<>(output));
             }
             return;
         }
-        if (index >= candidates.length || sum > target) {
-            return;
-        }
+        // if (index >= candidates.length || sum > target) {
+        //     return;
+        // }
 
         output.add(candidates[index]);
         sum=sum+candidates[index];
