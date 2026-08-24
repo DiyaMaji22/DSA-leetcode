@@ -422,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/DiyaMaji22/DSA-leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/DiyaMaji22/DSA-leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/DiyaMaji22/DSA-leetcode/tree/main/0090-subsets-ii/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/DiyaMaji22/DSA-leetcode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
