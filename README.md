@@ -453,4 +453,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/DiyaMaji22/DSA-leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/DiyaMaji22/DSA-leetcode/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
