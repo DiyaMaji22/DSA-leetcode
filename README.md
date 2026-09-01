@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/DiyaMaji22/DSA-leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0410-split-array-largest-sum) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/DiyaMaji22/DSA-leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/DiyaMaji22/DSA-leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0493-reverse-pairs) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/DiyaMaji22/DSA-leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -441,4 +445,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/DiyaMaji22/DSA-leetcode/tree/main/0051-n-queens/) | Hard |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/DiyaMaji22/DSA-leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/DiyaMaji22/DSA-leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
