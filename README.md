@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/DiyaMaji22/DSA-leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/DiyaMaji22/DSA-leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DiyaMaji22/DSA-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/DiyaMaji22/DSA-leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/DiyaMaji22/DSA-leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 ## Algorithm X
 | Problem Name | Difficulty |
