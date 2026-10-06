@@ -19,7 +19,6 @@ class Solution {
         List<List<Integer>>arr=new ArrayList<>();
         if(root==null){
             return arr;
-
         }
         q.add(root);
         while(!q.isEmpty()){
@@ -36,8 +35,9 @@ class Solution {
                 }
             }
             arr.add(res);
+            
         }
         return arr;
-        
+
     }
 }
